@@ -2,8 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 # 💫 Sobre mim:
-- 🔭 Sou estudante e estou cursando Análise e Desenvolvimento de Sistemas.<br>- 🌱 Atualmente estou aprendendo programar e desenvolvendo projetos para fazer meu portfolio.<br>- 👯 Estou à procura de um estágio  .<br> ![image](https://github.com/DurezahGeek/DurezahGeek/assets/134101156/d538efa7-276b-4992-9f63-2d19b7d11937)
-
+- 🔭 Sou estudante e estou cursando Análise e Desenvolvimento de Sistemas.<br>- 🌱 Atualmente estou aprendendo programar e desenvolvendo projetos para fazer meu portfolio.<br>- 👯 Estou à procura de um estágio  .<br> 
 ![viciadoemcodar](https://github.com/DurezahGeek/DurezahGeek/assets/134101156/e2efebc7-c6cf-4eab-91ba-3c12a39bdc49)
 
 ## 🌐 Sociais:
