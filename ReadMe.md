@@ -22,7 +22,6 @@
 -David Ribeiro Guilherme
 <img height="250em" src="https://github.com/DurezahGeek/DurezahGeek/assets/134101156/3e559706-2c66-4812-8ede-6fc8e9476329"/>
 
-
 [![](https://visitcount.itsvg.in/api?id=DurezahGeek&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
