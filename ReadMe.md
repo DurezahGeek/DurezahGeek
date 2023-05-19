@@ -3,7 +3,7 @@
 
 # 💫 Sobre mim:
 - 🔭 Sou estudante e estou cursando Análise e Desenvolvimento de Sistemas.<br>- 🌱 Atualmente estou aprendendo programar e desenvolvendo projetos para fazer meu portfolio.<br>- 👯 Estou à procura de um estágio  .<br> 
-<img height="180em" img width="360" src="https://github.com/DurezahGeek/DurezahGeek/assets/134101156/be7ea49f-6d5c-4883-9988-5002a32ce336"/>
+<img height="180em" img width="360" img ground_width = "2 * width" img ground_height = "30" src="https://github.com/DurezahGeek/DurezahGeek/assets/134101156/be7ea49f-6d5c-4883-9988-5002a32ce336"/>
 
 # 🌐 Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/biatriz-meirelles-70729b1a0/) 
