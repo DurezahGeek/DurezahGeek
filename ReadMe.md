@@ -19,7 +19,7 @@
   
 # ✍️ Frase de reflexão.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+Qualquer tolo inteligente pode tornar as coisas maiores, mais complexas e mais violentas. É preciso um toque de genialidade – e muita coragem – para ir na direção oposta.
 ---
 [![](https://visitcount.itsvg.in/api?id=DurezahGeek&icon=0&color=0)](https://visitcount.itsvg.in)
 
