@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DurezahGeek&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div>
 <a href="https://github.com/DurezahGeek">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurezahGeek&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DurezahGeek&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>"
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DurezahGeek&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 ### ✍️ Frase de reflexão.
