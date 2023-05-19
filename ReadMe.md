@@ -19,7 +19,7 @@
   
 # ✍️ Frase de reflexão.
 "Não é a linguagem de programação que define o programador, mas sim sua lógica".
--David Ribeiro Guilherme<img height="180em" src="https://github.com/DurezahGeek/DurezahGeek/assets/134101156/3e559706-2c66-4812-8ede-6fc8e9476329"/>
+-David Ribeiro Guilherme<img height="200em" src="https://github.com/DurezahGeek/DurezahGeek/assets/134101156/3e559706-2c66-4812-8ede-6fc8e9476329"/>
 
 [![](https://visitcount.itsvg.in/api?id=DurezahGeek&icon=0&color=0)](https://visitcount.itsvg.in)
 
