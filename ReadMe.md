@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 - 🔭 Sou estudante e estou cursando cursando Análise e Desenvolvimento de Sistemas.<br>- 🌱 Atualmente estou aprendendo programar e desenvolvendo projetos para fazer meu portfolio.<br>- 👯 Estou à procura de um estágio  .<br>
 
 
