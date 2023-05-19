@@ -3,6 +3,7 @@
 
 # 💫 Sobre mim:
 - 🔭 Sou estudante e estou cursando cursando Análise e Desenvolvimento de Sistemas.<br>- 🌱 Atualmente estou aprendendo programar e desenvolvendo projetos para fazer meu portfolio.<br>- 👯 Estou à procura de um estágio  .<br>
+![image](https://github.com/DurezahGeek/DurezahGeek/assets/134101156/d538efa7-276b-4992-9f63-2d19b7d11937)
 
 
 ## 🌐 Sociais:
