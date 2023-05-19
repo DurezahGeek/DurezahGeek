@@ -16,7 +16,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurezahGeek&layout=compact&langs_count=7&theme=bear"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DurezahGeek&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
 </div>
-### ✍️ Frase de reflexão.
+  
+# ✍️ Frase de reflexão.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
