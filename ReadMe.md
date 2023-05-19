@@ -18,7 +18,8 @@
 </div>
   
 # ✍️ Frase de reflexão.
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Não é a linguagem de programação que define o programador, mas sim sua lógica.David Ribeiro Guilherme
+![octocat-1684536332649](https://github.com/DurezahGeek/DurezahGeek/assets/134101156/3e559706-2c66-4812-8ede-6fc8e9476329)
 
 [![](https://visitcount.itsvg.in/api?id=DurezahGeek&icon=0&color=0)](https://visitcount.itsvg.in)
 
