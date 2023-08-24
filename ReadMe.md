@@ -1,6 +1,6 @@
-# <span style=" color:#ec63a1" >👋 Olá, me chamo Biatriz !  </span>
+# 👋 Olá, me chamo Biatriz ! 
 
-## <span style=" color:#ec63a1" > Bem vindo ao meu perfil GitHub 👋 </span>
+##  Bem vindo ao meu perfil GitHub 👋 
 
 ## 💫 Sobre mim:
 <div style="display: flex; align-items: center;">
