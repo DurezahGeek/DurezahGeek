@@ -7,7 +7,6 @@
       🌱 Estou focado em aprender programação e desenvolver projetos para aprimorar meu portfólio.<br>
       💼 Procuro por oportunidades de estágio na área de tecnologia. <br>
       🧠 Sempre em busca de novos conhecimentos e desafios.
-    </p>
   <img height="180" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-42.gif" alt="Gatinho digitando" align="right" >
 
 
