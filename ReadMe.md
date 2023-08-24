@@ -5,6 +5,7 @@
 ## 💫 Sobre mim:
 <img height="150" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-42.gif" alt="Gatinho digitando" align="right" >
 
+
 - 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.<br>
 - 🌱 Estou focado em aprender programação e desenvolver projetos para aprimorar meu portfólio.<br>
 - 💼 Procuro por oportunidades de estágio na área de tecnologia. <br>
