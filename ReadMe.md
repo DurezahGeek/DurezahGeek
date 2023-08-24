@@ -3,17 +3,13 @@
 ##  Bem vindo ao meu perfil GitHub 👋 
 
 ## 💫 Sobre mim:
-<div style="display: flex; align-items: center;">
-  <div style="margin-right: 50px;">
-    <p style="font-size: 17px">
       🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.<br>
       🌱 Estou focado em aprender programação e desenvolver projetos para aprimorar meu portfólio.<br>
       💼 Procuro por oportunidades de estágio na área de tecnologia. <br>
       🧠 Sempre em busca de novos conhecimentos e desafios.
     </p>
-  </div>
   <img height="180" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-42.gif" alt="Gatinho digitando" align="right" >
-</div>
+
 
 ## 💬 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/biatriz-meirelles-70729b1a0/)
@@ -35,14 +31,11 @@
 
 ## 📊 Estatísticas do GitHub:
 
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=DurezahGeek&theme=transparent&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF" alt="GitHub Stats">
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
+  
+ 
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DurezahGeek&layout=compact&bg_color=ec63a1&border_color=fff&title_color=fff&text_color=FFF" alt="Top Langs">
-  </div>
-</div>
+  
 
 ## ✍️ Frase de reflexão.
 <div style="display: flex">
