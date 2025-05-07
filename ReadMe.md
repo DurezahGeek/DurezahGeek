@@ -37,7 +37,7 @@
 ## 🚀 Habilidades Atuais
 
 
-<img src="https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-FF00F6?style=flat" width="200" height="25">
+<img src="https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-FF00F6?style=flat" width="170" height="25">
 
 
 - 🐧 Linux ・ 🐳 Docker ・ 🌿 Git ・ 💻 Shell Script  
@@ -50,7 +50,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF" width="200" height="25">
+<img src="https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF" width="150" height="25">
 - ☁️ AWS ・ ☁️ GCP ・ ☁️ Azure (iniciante)  
 - 🔁 GitHub Actions (iniciante) ・ 🐳 Docker
 
