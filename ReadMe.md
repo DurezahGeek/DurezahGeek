@@ -36,28 +36,24 @@
 
 ## 🚀 Habilidades Atuais
 
+
 ## 🚀 Habilidades Atuais
 
-### <span style="color: #FF00F6;">🎯 Essenciais do Dia a Dia</span>
-<div style="background-color: #000; color: #FFF; padding: 10px; border-radius: 5px;">
-  🐧 Linux・ 🐳 Docker・ 🌿 Git ・ 💻 Shell Script  
-  📦 VirtualBox ・ 🛎️ GLPI ・ 🐍 Python (básico)
-</div>
+### ![Essenciais do Dia a Dia](https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-FF00F6?style=flat&logo=linux&logoColor=FFF)
+- 🐧 Linux ・ 🐳 Docker ・ 🌿 Git ・ 💻 Shell Script  
+- 📦 VirtualBox ・ 🛎️ GLPI ・ 🐍 Python (básico)
 
 ---
 
-### <span style="color: #FF00F6;">📡 Redes & Infraestrutura</span>
-<div style="background-color: #000; color: #FFF; padding: 10px; border-radius: 5px;">
-  🌐 TCP/IP ・ 🔐 VPN・ 🧭 DNS ・ ⚙️ DHCP
-</div>
+### ![Redes & Infraestrutura](https://img.shields.io/badge/Redes_&_Infraestrutura-FF00F6?style=flat&logo=network-wired&logoColor=FFF)
+- 🌐 TCP/IP ・ 🔐 VPN ・ 🧭 DNS ・ ⚙️ DHCP
 
 ---
 
-### <span style="color: #FF00F6;">☁️ Cloud & DevOps</span>
-<div style="background-color: #000; color: #FFF; padding: 10px; border-radius: 5px;">
-  ☁️ AWS ・ ☁️ GCP ・ ☁️ Azure (iniciante)  
-  🔁 GitHub Actions (iniciante) ・ 🐳 Docker
-</div>
+### ![Cloud & DevOps](https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF)
+- ☁️ AWS ・ ☁️ GCP ・ ☁️ Azure (iniciante)  
+- 🔁 GitHub Actions (iniciante) ・ 🐳 Docker
+
 
 
 ---
