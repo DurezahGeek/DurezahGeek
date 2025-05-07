@@ -129,6 +129,7 @@
 
 ## 🌈 Frase que me motiva
 
-<img src="https://img.shields.io/badge/"Nos_bastidores_da_infraestrutura_e_da_nuvem,_os_profissionais_são_os_arquitetos_invisíveis,_construindo_pontes_digitais_que_conectam_o_mundo."🌐☁️_-000000?style=flat&logo=network-wired&logoColor=FFF" width="170" height="25">
+<img src="https://img.shields.io/badge/Nos_bastidores_da_infraestrutura_e_da_nuvem,_os_profissionais_são_os_arquitetos_invisíveis,_construindo_pontes_digitais_que_conectam_o_mundo._🌐☁️_-000000?style=flat&logo=network-wired&logoColor=FFF" width="auto" height="25">
+
 
 
