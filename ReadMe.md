@@ -37,21 +37,20 @@
 ## 🚀 Habilidades Atuais
 
 
-### ![Essenciais do Dia a Dia](https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-0000?style=flat&logo=linux&logoColor=FFF)
+### ![Essenciais do Dia a Dia](https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-FF00F6?style=flat&logo=linux&logoColor=FFF&logoWidth=30)
 - 🐧 Linux ・ 🐳 Docker ・ 🌿 Git ・ 💻 Shell Script  
 - 📦 VirtualBox ・ 🛎️ GLPI ・ 🐍 Python (básico)
 
 ---
 
-### ![Redes & Infraestrutura](https://img.shields.io/badge/Redes_&_Infraestrutura-FF00F6?style=flat&logo=network-wired&logoColor=FFF)
+### ![Redes & Infraestrutura](https://img.shields.io/badge/Redes_&_Infraestrutura-FF00F6?style=flat&logo=network-wired&logoColor=FFF&logoWidth=30)
 - 🌐 TCP/IP ・ 🔐 VPN ・ 🧭 DNS ・ ⚙️ DHCP
 
 ---
 
-### ![Cloud & DevOps](https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF)
+### ![Cloud & DevOps](https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF&logoWidth=30)
 - ☁️ AWS ・ ☁️ GCP ・ ☁️ Azure (iniciante)  
 - 🔁 GitHub Actions (iniciante) ・ 🐳 Docker
-
 
 
 ---
