@@ -114,7 +114,8 @@
 
 ## 🧪 Experiência Profissional
 
-<img src="https://img.shields.io/badge/TRF2_-_Estagiária_de_TI-FF00F6?style=flat&logo=cloud&logoColor=FFF" width="130" height="25">
+<img src="https://img.shields.io/badge/TRF1-000000?style=flat&logo=cloud&logoColor=FFF" height="25"><img src="https://img.shields.io/badge/Estagiária_de_TI-FF00F6?style=flat&logo=none&logoColor=FFF" height="25">
+
 
 📅 2023 — 2024
 
