@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite (UTC)
+    - cron: "0 0 * * *" 
   push:
     branches:
       - main
@@ -30,3 +30,4 @@ jobs:
           author_email: github-actions@github.com
           message: "🐍 Atualizando animação da cobrinha"
           add: 'output/github-contribution-grid-snake.svg'
+          token: ${{ secrets.GH_TOKEN }}  
