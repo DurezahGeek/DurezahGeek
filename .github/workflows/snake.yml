@@ -6,7 +6,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  
   push:
     branches:
       - main
@@ -30,13 +30,18 @@ jobs:
           snake_color: "#800080"
           contribution_color: "#32CD32"
 
+      - name: ✏️ Adicionar fundo transparente ao SVG
+        run: |
+          # Modifica o SVG para adicionar fundo com transparência
+          sed -i 's|<svg |<svg><rect width="100%" height="100%" fill="#0000000d" />|' ./output/github-contribution-grid-snake-dark.svg
+          sed -i 's|<svg |<svg><rect width="100%" height="100%" fill="#0000000d" />|' ./output/github-contribution-grid-snake-light.svg
+
       - name: 📤 Commitar arquivo gerado
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "🐍 Atualizando animação da cobrinha"
+          message: "🐍 Atualizando animação da cobrinha com fundo transparente"
           add: 'output/github-contribution-grid-snake.svg'
           github_token: ${{ secrets.GH_TOKEN }}
-
 
