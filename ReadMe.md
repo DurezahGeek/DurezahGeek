@@ -59,8 +59,9 @@
 ## 🐍 Cobrinha das contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/main/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 
