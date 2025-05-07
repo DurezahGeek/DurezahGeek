@@ -91,8 +91,6 @@
 
 ## 💻 GitHub Status
 
-
-## 💻 GitHub Status
 <div align="center">
 <table>
   <tr>
@@ -116,7 +114,8 @@
 
 ## 🧪 Experiência Profissional
 
-### 📍 **TRF2 – Estagiária de TI**  
+<img src="https://img.shields.io/badge/TRF2_-_Estagiária_de_TI-FF00F6?style=flat&logo=cloud&logoColor=FFF" width="130" height="25">
+
 📅 2023 — 2024
 
 - 🔧 Suporte técnico e manutenção de sistemas  
