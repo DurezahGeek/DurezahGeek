@@ -1,44 +1,83 @@
-# 👋 Olá, me chamo Biatriz ! 
+<h1 align="center" style="background: linear-gradient(135deg, #00bcd4, #3f51b5, #9c27b0); color: white; padding: 2px; border-radius: 10px;">
+  🚀 Olá, eu sou a <strong>Biatriz Gomes</strong>!
+</h1>
 
-##  Bem vindo ao meu perfil GitHub 👋 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Infraestrutura+de+TI;DevOps+e+Cloud+Computing" alt="Typing SVG" />
+</p>
 
-## 💫 Sobre mim:
-<img height="150" width="400" margim-bottom="30px" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-42.gif" alt="Gatinho digitando" align="right" >
+<p align="center">
+  <a href="https://www.linkedin.com/in/biatriz-meirelles-70729b1a0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:biatrizgomesmeirelles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+---
 
-- 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.<br>
-- 🌱 Estou focado em aprender programação e desenvolver projetos para aprimorar meu portfólio.<br>
-- 💼 Procuro por oportunidades de estágio na área de tecnologia. <br>
-- 🧠 Sempre em busca de novos conhecimentos e desafios.
+## 🎯 Sobre mim
 
+> 💬 **"Se não está monitorado, não está em produção."**
 
-## 💬 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/biatriz-meirelles-70729b1a0/)
-[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/DurezahGeek)
-[![email](https://img.shields.io/badge/email-ec63a1?style=for-the-badge&logo=email&logoColor=fff)](mailto:biatriz.gomeirelles.lg1123@gmail.com)
+- 👩‍🎓 Formada em **Análise e Desenvolvimento de Sistemas**
+- ⚡ Apaixonada por **automações, infraestrutura** e tudo que envolve **servidores, redes e cloud**!
+- 🎯 Em constante evolução no mundo **DevOps**
 
-## 🌸 Habilidades:
-![HTML5](https://img.shields.io/badge/HTML5-ec63a1?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-ec63a1?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-ec63a1?style=for-the-badge&logo=javascript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-ec63a1?style=for-the-badge&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ec63a1?style=for-the-badge&logo=java&logoColor=fff)
-![React](https://img.shields.io/badge/React-ec63a1?style=for-the-badge&logo=react&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-ec63a1?style=for-the-badge&logo=angular&logoColor=fff)
-![Postgres](https://img.shields.io/badge/Postgres-ec63a1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-ec63a1?style=for-the-badge&logo=firebase&logoColor=fff)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-ec63a1?style=for-the-badge&logo=phpmyadmin&logoColor=fff)
+---
 
-## 📊 Estatísticas do GitHub:
-<div>
-<img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=DurezahGeek&theme=transparent&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF&height=120"/>
-<img height="180em" img width="360em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DurezahGeek&layout=compact&bg_color=ec63a1&border_color=fff&title_color=fff&text_color=FFF&height=120"/>
-</div>
+## 🚀 Habilidades Atuais
 
-## ✍️ Frase de reflexão.
-<img height="200" src="https://media.tenor.com/C4lCxC3_IgAAAAAi/%E5%BF%99%E3%81%97%E3%81%84-%E4%BB%95%E4%BA%8B.gif" alt="Imagem" align="right" >
-“No mundo de zeros e uns, os programadores são os alquimistas modernos, testemunhando a simplicidade binária em complexas e missões tecnológicas.”
- 
-[![](https://visitcount.itsvg.in/api?id=DurezahGeek&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🎯 Essenciais do Dia a Dia  
+🐧 **Linux** ・ 🐳 **Docker** ・ 🌿 **Git** ・ 💻 **Shell Script**  
+📦 **VirtualBox** ・ 🛎️ **GLPI** ・ 🐍 **Python (básico)**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 📡 Redes & Infraestrutura  
+🌐 **TCP/IP** ・ 🔐 **VPN** ・ 🧭 **DNS** ・ ⚙️ **DHCP**
+
+---
+
+### ☁️ Cloud & DevOps  
+☁️ **AWS** ・ ☁️ **GCP** ・ ☁️ **Azure** *(iniciante)*  
+🔁 **GitHub Actions** *(iniciante)* ・ 🐳 **Docker**
+
+---
+
+## 📚 Certificações Obtidas em Cursos
+
+| Plataforma | Curso |
+|------------|-------|
+| 🐧 **Cisco Academy** | Linux Unhatched |
+| 🐳 **DIO** | Docker e Servidores Linux |
+| 📦 **Google** | Suporte Técnico em TI |
+| ☁️ **AWS Educate** | AWS Cloud 101 |
+| 🐍 **DIO** | Python Developer (Suzano) |
+
+---
+
+## 💻 GitHub em Ação
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biatrizgomes&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biatrizgomes&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🧪 Experiência Profissional
+
+### 📍 **TRF2 – Estagiária de TI**  
+📅 2023 — 2024
+
+- 🔧 Suporte técnico e manutenção de sistemas  
+- 🧪 Homologação e automação de testes  
+- 🖥️ GLPI e inventário de ativos  
+- 🌐 Virtualização com VirtualBox  
+- 🎥 Criação de vídeos técnicos para base "TI Tube"
+
+---
+
+## 🌈 Frase que me motiva
+
+```txt
+"Nos bastidores da infraestrutura e da nuvem, os profissionais são os arquitetos invisíveis, construindo pontes digitais que conectam o mundo." 🌐☁️
+
