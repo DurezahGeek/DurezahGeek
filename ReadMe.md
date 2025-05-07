@@ -17,7 +17,6 @@
 </p>
 
 
-
 ---
 
 <img align="right" alt="Estudando" height="190px" src="./src/1.gif">
