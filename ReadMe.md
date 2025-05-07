@@ -40,19 +40,19 @@
 <img src="https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-FF00F6?style=flat" width="170" height="25">
 
 
-- 🐧 Linux ・ 🐳 Docker ・ 🌿 Git ・ 💻 Shell Script  
-- 📦 VirtualBox ・ 🛎️ GLPI ・ 🐍 Python (básico)
+- 🐧 Linux ・ 🐳 Docker ・ 🌿 Git ・ 💻 Shell Script ・ 📦 VirtualBox ・ 🛎️ GLPI ・ 🐍 Python (básico)
 
 ---
 
 <img src="https://img.shields.io/badge/Redes_&_Infraestrutura-FF00F6?style=flat&logo=network-wired&logoColor=FFF" width="170" height="25">
+
 - 🌐 TCP/IP ・ 🔐 VPN ・ 🧭 DNS ・ ⚙️ DHCP
 
 ---
 
 <img src="https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF" width="150" height="25">
-- ☁️ AWS ・ ☁️ GCP ・ ☁️ Azure (iniciante)  
-- 🔁 GitHub Actions (iniciante) ・ 🐳 Docker
+
+- ☁️ AWS ・ ☁️ GCP ・ ☁️ Azure (iniciante)  ・ 🔁 GitHub Actions (iniciante) ・ 🐳 Docker
 
 
 ---
