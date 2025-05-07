@@ -57,7 +57,7 @@
 ## 💻 GitHub em Ação
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/main/output/github-contribution-grid-snake.svg" width="500" />
+  <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/main/output/github-contribution-grid-snake.svg" />
 
 ![Contribuições no GitHub](https://contrib.rocks/images/github-contribs.svg)
 </div>
