@@ -29,8 +29,6 @@ jobs:
             ./output/github-contribution-grid-snake-dark.svg
           snake_color: "#800080"
           contribution_color: "#32CD32"
-          transparent: true
-          svg_out_path_style: "fill=none"  # 👈 força fundo transparente no SVG
 
       - name: 📤 Commitar arquivo gerado
         uses: EndBug/add-and-commit@v9
