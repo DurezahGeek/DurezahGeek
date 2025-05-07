@@ -50,7 +50,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF" width="150" height="25">
+<img src="https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF" width="130" height="25">
 
 - ☁️ AWS ・ ☁️ GCP ・ ☁️ Azure (iniciante)  ・ 🔁 GitHub Actions (iniciante) ・ 🐳 Docker
 
@@ -92,10 +92,10 @@
 ## 💻 GitHub Status
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1 1 48%; min-width: 300px;">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DurezahGeek&title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats" style="max-width: 100%; height: auto;">
   </div>
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1 1 48%; min-width: 300px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/output/github-contribution-grid-snake-dark.svg">
