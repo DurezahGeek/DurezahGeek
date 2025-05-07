@@ -7,9 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/biatriz-meirelles-70729b1a0/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedinColor=FF00F6&color:FFF" /></a>
-  <a href="mailto:biatrizgomesmeirelles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmailColor=FF00F6&color:FFF" /></a>
+  <a href="https://www.linkedin.com/in/biatriz-meirelles-70729b1a0/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF" />
+  </a>
+  <a href="mailto:biatrizgomesmeirelles@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=FFF" />
+  </a>
 </p>
+
 
 ---
 
