@@ -86,6 +86,20 @@
   </tr>
 </table>
 
+<style>
+  @media (max-width: 768px) {
+    table {
+      display: block;
+      width: 100%;
+    }
+    td {
+      display: block;
+      width: 100%;
+      padding: 10px 0;
+    }
+  }
+</style>
+
 ---
 
 
