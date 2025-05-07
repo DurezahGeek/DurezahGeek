@@ -58,9 +58,10 @@
 
 <div align="center">
 
-<div style="background-color: black; padding: 10px; display: inline-block;">
+<div style="background-color: #333333; padding: 10px; display: inline-block;">
   <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/main/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 ![snake gif](https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/main/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
