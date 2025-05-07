@@ -58,15 +58,10 @@
 
 ## 💻 GitHub em Ação
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DurezahGeek&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurezahGeek&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+## 🐍 Snake GitHub Contributions
 
-<p align="center">
-  <!-- Gráfico de Cobrinha de Contribuições -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DurezahGeek&bg_color=ffffff&color=00bcd4&line=3f51b5&point=ff0000&area=true&hide_border=true" />
-</p>
+![Snake animation](https://github.com/DurezahGeek/DurezahGeek/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
