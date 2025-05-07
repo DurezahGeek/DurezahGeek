@@ -56,10 +56,6 @@
 
 ## 💻 GitHub em Ação
 
-## 💻 GitHub em Ação
-
-## 🐍 Snake GitHub Contributions
-
 ![Snake animation](https://github.com/DurezahGeek/DurezahGeek/blob/output/github-contribution-grid-snake.svg)
 
 
