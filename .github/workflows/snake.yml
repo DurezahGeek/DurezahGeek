@@ -6,7 +6,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite (UTC)
   push:
     branches:
       - main
@@ -26,9 +26,11 @@ jobs:
           github_user_name: DurezahGeek
           outputs: |
             ./output/github-contribution-grid-snake.svg
-          snake_color: "#800080"  
-          contribution_color: "#32CD32"  
-          transparent_background: true  
+          snake_color: "#800080"  # Cor roxa para a cobrinha
+          contribution_color: "#32CD32"  # Cor verde para os dias de atividade
+          transparent_background: true  # Tenta garantir fundo transparente
+          grid_color: "transparent"  # Tenta tornar o fundo da grid transparente (se suportado)
+          border_color: "transparent"  # Garante que a borda também seja transparente (se possível)
 
       - name: 📤 Commitar arquivo gerado
         uses: EndBug/add-and-commit@v9
@@ -37,5 +39,4 @@ jobs:
           author_email: github-actions@github.com
           message: "🐍 Atualizando animação da cobrinha"
           add: 'output/github-contribution-grid-snake.svg'
-          github_token: ${{ secrets.GH_TOKEN }}  
-
+          github_token: ${{ secrets.GH_TOKEN }}  # Usando o token de autenticação
