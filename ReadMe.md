@@ -58,7 +58,10 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/main/output/github-contribution-grid-snake.svg" style="background: none; border: 0;" width="100%" height="200" />
+<div style="background-color: black; padding: 10px; display: inline-block;">
+  <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/main/output/github-contribution-grid-snake.svg" />
+</div>
+
 
 
 ![Contribuições no GitHub](https://contrib.rocks/images/github-contribs.svg)
