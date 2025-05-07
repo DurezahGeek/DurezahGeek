@@ -61,6 +61,17 @@
 <div style="background-color: #333333; padding: 10px; display: inline-block;">
   <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/main/output/github-contribution-grid-snake.svg" />
 </div>
+<style>
+  :root {
+    --ce: #0000000d; /* Definindo a cor de fundo */
+  }
+
+  .snake-svg {
+    background-color: var(--ce); /* Usando a variável */
+  }
+</style>
+
+<img class="snake-svg" src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/main/output/github-contribution-grid-snake.svg" />
 
 
 ![snake gif](https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/main/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
