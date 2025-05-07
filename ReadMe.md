@@ -36,20 +36,26 @@
 
 ## 🚀 Habilidades Atuais
 
-### 🎯 Essenciais do Dia a Dia  
-🐧 **Linux** ・ 🐳 **Docker** ・ 🌿 **Git** ・ 💻 **Shell Script**  
-📦 **VirtualBox** ・ 🛎️ **GLPI** ・ 🐍 **Python (básico)**
+### <span style="color: #FF00F6;">🎯 Essenciais do Dia a Dia</span>  
+<div style="background-color: #000; color: #FFF; padding: 10px; border-radius: 5px;">
+  🐧 Linux・ 🐳 Docker・ 🌿 Git ・ 💻 Shell Script 
+  📦 VirtualBox ・ 🛎️ GLPI ・ 🐍 Python (básico)
+</div>
 
 ---
 
-### 📡 Redes & Infraestrutura  
-🌐 **TCP/IP** ・ 🔐 **VPN** ・ 🧭 **DNS** ・ ⚙️ **DHCP**
+### <span style="color: #FF00F6;">📡 Redes & Infraestrutura</span>  
+<div style="background-color: #000; color: #FFF; padding: 10px; border-radius: 5px;">
+  🌐 TCP/IP ・ 🔐 VPN・ 🧭 DNS ・ ⚙️ DHCP
+</div>
 
 ---
 
-### ☁️ Cloud & DevOps  
-☁️ **AWS** ・ ☁️ **GCP** ・ ☁️ **Azure** *(iniciante)*  
-🔁 **GitHub Actions** *(iniciante)* ・ 🐳 **Docker**
+### <span style="color: #FF00F6;">☁️ Cloud & DevOps</span>  
+<div style="background-color: #000; color: #FFF; padding: 10px; border-radius: 5px;">
+  ☁️ AWS ・ ☁️ GCP ・ ☁️ Azure (iniciante)  
+  🔁 GitHub Actions (iniciante) ・ 🐳 Docker
+</div>
 
 ---
 
