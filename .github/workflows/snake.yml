@@ -6,7 +6,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -26,10 +26,10 @@ jobs:
           github_user_name: DurezahGeek
           outputs: |
             ./output/github-contribution-grid-snake.svg
-          # Customizações visuais:
-          snake_color: "#800080"                
-          contribution_color: "#32CD32"               
-          transparent: true               
+          snake_color: "#800080"
+          contribution_color: "#32CD32"
+          transparent: true
+          svg_out_path_style: "fill=none"  # 👈 força fundo transparente no SVG
 
       - name: 📤 Commitar arquivo gerado
         uses: EndBug/add-and-commit@v9
