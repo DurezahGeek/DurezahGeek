@@ -61,7 +61,7 @@
 
 <table style="background-color: #000; color: #FFF; border-radius: 5px; width: 100%;">
   <tr>
-    <th style="padding: 10px; text-align: left;">Plataforma</th>
+    <th style="padding: 10px; background-color: #000; text-align: left;">Plataforma</th>
     <th style="padding: 10px; text-align: left;">Curso</th>
   </tr>
   <tr>
