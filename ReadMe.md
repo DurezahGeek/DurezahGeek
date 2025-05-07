@@ -59,13 +59,32 @@
 
 ## 📚 Certificações Obtidas em Cursos
 
-| Plataforma | Curso |
-|------------|-------|
-| 🐧 **Cisco Academy** | Linux Unhatched |
-| 🐳 **DIO** | Docker e Servidores Linux |
-| 📦 **Google** | Suporte Técnico em TI |
-| ☁️ **AWS Educate** | AWS Cloud 101 |
-| 🐍 **DIO** | Python Developer (Suzano) |
+<table style="background-color: #000; color: #FFF; border-radius: 5px; width: 100%;">
+  <tr>
+    <th style="padding: 10px; text-align: left;">Plataforma</th>
+    <th style="padding: 10px; text-align: left;">Curso</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">🐧 <strong>Cisco Academy</strong></td>
+    <td style="padding: 10px;">Linux Unhatched</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">🐳 <strong>DIO</strong></td>
+    <td style="padding: 10px;">Docker e Servidores Linux</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">📦 <strong>Google</strong></td>
+    <td style="padding: 10px;">Suporte Técnico em TI</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">☁️ <strong>AWS Educate</strong></td>
+    <td style="padding: 10px;">AWS Cloud 101</td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">🐍 <strong>DIO</strong></td>
+    <td style="padding: 10px;">Python Developer (Suzano)</td>
+  </tr>
+</table>
 
 ---
 
