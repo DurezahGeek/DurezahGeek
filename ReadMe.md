@@ -13,9 +13,11 @@
 
 ---
 
+<img align="right" alt="Estudando" height="190px" src="./src/1.gif">
+
 ## 🎯 Sobre mim
 
-<img align="right" alt="Estudando" height="190px" src="./src/1.gif">
+
 
 > 💬 **"Se não está monitorado, não está em produção."**
 
