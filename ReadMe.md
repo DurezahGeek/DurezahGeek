@@ -37,9 +37,7 @@
 ## 🚀 Habilidades Atuais
 
 
-## 🚀 Habilidades Atuais
-
-### ![Essenciais do Dia a Dia](https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-FF00F6?style=flat&logo=linux&logoColor=FFF)
+### ![Essenciais do Dia a Dia](https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-0000?style=flat&logo=linux&logoColor=FFF)
 - 🐧 Linux ・ 🐳 Docker ・ 🌿 Git ・ 💻 Shell Script  
 - 📦 VirtualBox ・ 🛎️ GLPI ・ 🐍 Python (básico)
 
