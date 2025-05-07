@@ -45,7 +45,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Redes_&_Infraestrutura-FF00F6?style=flat&logo=network-wired&logoColor=FFF" width="200" height="25">
+<img src="https://img.shields.io/badge/Redes_&_Infraestrutura-FF00F6?style=flat&logo=network-wired&logoColor=FFF" width="170" height="25">
 - 🌐 TCP/IP ・ 🔐 VPN ・ 🧭 DNS ・ ⚙️ DHCP
 
 ---
