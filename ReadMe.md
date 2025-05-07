@@ -58,7 +58,10 @@
 
 ## 🐍 Cobrinha das contribuições
 
-![Snake animation](https://github.com/DurezahGeek/DurezahGeek/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 
 ---
