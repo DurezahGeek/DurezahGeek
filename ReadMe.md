@@ -129,7 +129,10 @@
 
 ## 🌈 Frase que me motiva
 
-<img src="https://img.shields.io/badge/Nos_bastidores_da_infraestrutura_e_da_nuvem,_os_profissionais_são_os_arquitetos_invisíveis_-_🌐☁️_-000000?style=flat&logo=network-wired&logoColor=FFF" height="50">
+<div style="background-color: #000; color: #fff; padding: 16px; border-radius: 8px; font-family: monospace;">
+  "Nos bastidores da infraestrutura e da nuvem, os profissionais são os arquitetos invisíveis, construindo pontes digitais que conectam o mundo." 🌐☁️
+</div>
+
 
 
 
