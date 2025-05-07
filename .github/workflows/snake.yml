@@ -1,12 +1,12 @@
 name: Generate Snake Animation
 
 permissions:
-  contents: write  
-  pull-requests: write  
+  contents: write
+  pull-requests: write
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente à meia-noite (UTC)
+    - cron: "0 0 * * *"  
   push:
     branches:
       - main
@@ -26,11 +26,11 @@ jobs:
           github_user_name: DurezahGeek
           outputs: |
             ./output/github-contribution-grid-snake.svg
-          snake_color: "#800080"  # Cor roxa para a cobrinha
-          contribution_color: "#32CD32"  # Cor verde para os dias de atividade
-          transparent_background: true  # Tenta garantir fundo transparente
-          grid_color: "transparent"  # Tenta tornar o fundo da grid transparente (se suportado)
-          border_color: "transparent"  # Garante que a borda também seja transparente (se possível)
+          # Customizações visuais:
+          snake_color: "#800080"                
+          contribution_color: "#32CD32"         
+          background: "#0d1117"                 
+          transparent: false                    
 
       - name: 📤 Commitar arquivo gerado
         uses: EndBug/add-and-commit@v9
@@ -39,4 +39,5 @@ jobs:
           author_email: github-actions@github.com
           message: "🐍 Atualizando animação da cobrinha"
           add: 'output/github-contribution-grid-snake.svg'
-          github_token: ${{ secrets.GH_TOKEN }}  # Usando o token de autenticação
+          github_token: ${{ secrets.GH_TOKEN }}
+
