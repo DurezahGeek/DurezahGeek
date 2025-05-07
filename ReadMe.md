@@ -5,14 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00F6&width=500&lines=Infraestrutura+de+TI;DevOps+e+Cloud+Computing" alt="Typing SVG" />
 </p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/biatriz-meirelles-70729b1a0/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF" />
-  </a>
-  <a href="mailto:biatrizgomesmeirelles@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=FFF" />
-  </a>
+  <a href="https://www.linkedin.com/in/biatriz-meirelles-70729b1a0/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" /></a>
+  <a href="mailto:biatrizgomesmeirelles@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" /></a>
 </p>
 
 
