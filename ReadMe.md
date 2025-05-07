@@ -45,12 +45,12 @@
 
 ---
 
-![Redes & Infraestrutura](https://img.shields.io/badge/Redes_&_Infraestrutura-FF00F6?style=flat&logo=network-wired&logoColor=FFF)
+<img src="https://img.shields.io/badge/Redes_&_Infraestrutura-FF00F6?style=flat&logo=network-wired&logoColor=FFF" width="200" height="25">
 - 🌐 TCP/IP ・ 🔐 VPN ・ 🧭 DNS ・ ⚙️ DHCP
 
 ---
 
-![Cloud & DevOps](https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF)
+<img src="https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF" width="200" height="25">
 - ☁️ AWS ・ ☁️ GCP ・ ☁️ Azure (iniciante)  
 - 🔁 GitHub Actions (iniciante) ・ 🐳 Docker
 
