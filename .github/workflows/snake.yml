@@ -30,4 +30,5 @@ jobs:
           author_email: github-actions@github.com
           message: "🐍 Atualizando animação da cobrinha"
           add: 'output/github-contribution-grid-snake.svg'
-          token: ${{ secrets.GH_TOKEN }}  
+          github_token: ${{ secrets.GH_TOKEN }} 
+
