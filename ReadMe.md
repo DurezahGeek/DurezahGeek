@@ -21,7 +21,7 @@
 - ⚡ Apaixonada por **automações, infraestrutura** e tudo que envolve **servidores, redes e cloud**!
 - 🎯 Em constante evolução no mundo **DevOps**
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/study (1).gif">
 ---
 
 ## 🚀 Habilidades Atuais
