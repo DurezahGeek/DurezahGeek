@@ -37,7 +37,7 @@
 ## 🚀 Habilidades Atuais
 
 
-<img src="https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-FF00F6?style=flat&logo=linux&logoColor=FFF" width="200" height="40">
+<img src="https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-FF00F6?style=flat" width="150" height="30">
 
 
 - 🐧 Linux ・ 🐳 Docker ・ 🌿 Git ・ 💻 Shell Script  
