@@ -21,7 +21,7 @@
 - ⚡ Apaixonada por **automações, infraestrutura** e tudo que envolve **servidores, redes e cloud**!
 - 🎯 Em constante evolução no mundo **DevOps**
 
-<img align="right" alt="Estudando" height="190px" src="https://github.com/DurezahGeek/DurezahGeek/blob/main/src/study.gif?raw=true">
+<img align="right" alt="Estudando" height="190px" src="https://github.com/DurezahGeek/DurezahGeek/blob/main/src/study.gif">
 
 ---
 
