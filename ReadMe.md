@@ -1,4 +1,4 @@
-<h1 align="center" style="background: linear-gradient(135deg, #00bcd4, #3f51b5, #9c27b0); color: white; padding: 2px; border-radius: 10px;">
+<h1 align="center">
   🚀 Olá, eu sou a <strong>Biatriz Gomes</strong>!
 </h1>
 
@@ -37,7 +37,7 @@
 ## 🚀 Habilidades Atuais
 
 
-### ![Essenciais do Dia a Dia](https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-FF00F6?style=flat&logo=linux&logoColor=FFF&logoWidth=50)
+## ![Essenciais do Dia a Dia](https://img.shields.io/badge/Essenciais_do_Dia_a_Dia-FF00F6?style=flat&logo=linux&logoColor=FFF&logoWidth=50)
 - 🐧 Linux ・ 🐳 Docker ・ 🌿 Git ・ 💻 Shell Script  
 - 📦 VirtualBox ・ 🛎️ GLPI ・ 🐍 Python (básico)
 
