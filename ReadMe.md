@@ -69,7 +69,8 @@
 
 
 
-![Contribuições no GitHub](https://contrib.rocks/images/github-contribs.svg)
+![Contribuições no GitHub](https://contrib.rocks/image?repo=DurezahGeek/DurezahGeek)
+
 </div>
 
 
