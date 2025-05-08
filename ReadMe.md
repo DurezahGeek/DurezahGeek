@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" alt="Estudando" height="190px" src="./src/1.gif">
+<img align="right" alt="Estudando" height="190px" src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/refs/heads/main/src/1.gif">
 
 ## 🎯 Sobre mim
 
