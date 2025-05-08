@@ -54,7 +54,7 @@
 
 <img src="https://img.shields.io/badge/Cloud_&_DevOps-FF00F6?style=flat&logo=cloud&logoColor=FFF" width="130" height="25">
 
-- ☁️ AWS ・ ☁️ GCP ・ ☁️ Azure (iniciante)  ・ 🔁 GitHub Actions (iniciante) ・ 🐳 Docker
+- ☁️ AWS (iniciante) ・ ☁️ GCP (iniciante)・ ☁️ Azure (iniciante)  ・ 🔁 GitHub ・ 🐳 Docker
 
 
 ---
