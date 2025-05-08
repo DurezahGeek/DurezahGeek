@@ -1,7 +1,10 @@
-<h1 align="center">
-   <img height= "150px" src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/refs/heads/main/src/42.webp">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/refs/heads/main/src/42.webp" alt="Banner" width="100%" style="position: relative;">
+</p>
+
+<p align="center" style="margin-top: -180px; font-size: 28px; font-weight: bold;">
   🚀 Olá, eu sou a <strong>Biatriz Gomes</strong>!
-</h1>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00F6&width=500&lines=Infraestrutura+de+TI;DevOps+e+Cloud+Computing" alt="Typing SVG" />
