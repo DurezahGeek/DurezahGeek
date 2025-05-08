@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/refs/heads/main/src/12.gif" alt="Banner" width="100%" height="250px" style="position: relative;">
+  <img src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/refs/heads/main/src/12.gif" alt="Banner" width="100%" style="position: relative;">
 </p>
 
 
