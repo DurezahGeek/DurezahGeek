@@ -1,4 +1,5 @@
 <h1 align="center">
+   <img height= "150px" src="https://raw.githubusercontent.com/DurezahGeek/DurezahGeek/refs/heads/main/src/42.webp">
   🚀 Olá, eu sou a <strong>Biatriz Gomes</strong>!
 </h1>
 
